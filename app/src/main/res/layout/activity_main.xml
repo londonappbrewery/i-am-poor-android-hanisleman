@@ -19,7 +19,8 @@
         android:layout_centerHorizontal="true"
         android:text="I Am Poor"
         android:textColor="@android:color/black"
-        android:textSize="50sp" />
+        android:textSize="50sp"
+        />
 
     <ImageView
         android:id="@+id/imageView"
